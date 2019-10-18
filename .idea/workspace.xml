@@ -50,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571410684264</updated>
-      <workItem from="1571410685593" duration="5566000" />
+      <workItem from="1571410685593" duration="6686000" />
     </task>
     <task id="LOCAL-00001" summary="På vej">
       <created>1571416611019</created>
@@ -59,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571416611019</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hæslige farve og billede">
+      <created>1571417054128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571417054128</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="På vej" />
-    <option name="LAST_COMMIT_MESSAGE" value="På vej" />
+    <MESSAGE value="Hæslige farve og billede" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hæslige farve og billede" />
   </component>
 </project>
